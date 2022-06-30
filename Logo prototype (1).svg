@@ -39,8 +39,8 @@
 		stroke-linecap="round"
 		d="M15.01,15.04L11.80,15.04A6.08 6.07 270.00 1 1 11.80,2.89L17.83,2.89L17.83,9.14"/>
 	<path
-		fill="#00FEFF"
-		stroke="#000000"
+		fill="#FFFFFF"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -60,7 +60,7 @@
 		d="M11.77,8.96L14.98,8.96A6.08 6.07 270.00 1 1 14.98,21.11L8.96,21.11L4.65,21.11z"/>
 	<path
 		fill="#00FEFF"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -70,7 +70,7 @@
 		d="M24.51,8.96L29.77,8.96"/>
 	<path
 		fill="#00FEFF"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -79,8 +79,8 @@
 		stroke-linecap="square"
 		d="M24.51,15.04L29.77,15.04"/>
 	<path
-		fill="#00FEFF"
-		stroke="#000000"
+		fill="#FFFFFF"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -89,8 +89,8 @@
 		stroke-linecap="square"
 		d="M88.47,2.89L101.64,2.89L101.64,21.11L88.47,21.11"/>
 	<path
-		fill="#00FEFF"
-		stroke="#000000"
+		fill="#FFFFFF"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -99,8 +99,8 @@
 		stroke-linecap="square"
 		d="M83.32,2.89C86.90,2.80,90.47,2.71,92.26,5.79C94.05,8.87,94.05,15.13,92.26,18.21C90.47,21.30,86.90,21.20,83.32,21.11z"/>
 	<path
-		fill="#000000"
-		stroke="#000000"
+		fill="#1E1E1E"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -110,7 +110,7 @@
 		d="M83.32,7.36C85.14,7.31,86.97,7.26,87.88,8.84C88.79,10.41,88.79,13.60,87.88,15.17C86.97,16.74,85.14,16.69,83.32,16.64z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -120,7 +120,7 @@
 		d="M95.05,8.96L100.32,8.96"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -129,9 +129,9 @@
 		stroke-linecap="square"
 		d="M95.05,15.04L100.32,15.04"/>
 	<path
-		fill="#000000"
-		stroke="#000000"
-		fill-opacity="0.996"
+		fill="#1E1E1E"
+		stroke="#1E1E1E"
+		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
 		stroke-width="3.2612567"
@@ -140,7 +140,7 @@
 		d="M108.26,2.89L101.64,2.89L101.64,15.04L108.26,2.89z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -150,7 +150,7 @@
 		d="M108.26,2.89L115.02,2.89L115.02,21.11L105.77,21.11L115.02,2.89"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -159,8 +159,8 @@
 		stroke-linecap="square"
 		d="M125.28,2.89C121.70,2.80,118.13,2.71,116.34,5.79C114.55,8.87,114.55,15.13,116.34,18.21C118.13,21.30,121.70,21.20,125.28,21.11z"/>
 	<path
-		fill="#000000"
-		stroke="#000000"
+		fill="#1E1E1E"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -170,17 +170,17 @@
 		d="M126.01,7.36C124.19,7.31,122.37,7.26,121.46,8.84C120.54,10.41,120.54,13.60,121.46,15.17C122.37,16.74,124.19,16.69,126.01,16.64z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
-		stroke-width="3.242899"
+		stroke-width="3.2400002"
 		stroke-linejoin="round"
 		stroke-linecap="square"
 		d="M115.02,2.89L125.28,2.89"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -190,17 +190,17 @@
 		d="M31.09,8.96L37.67,8.96"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
-		stroke-width="3.242899"
+		stroke-width="3.2400002"
 		stroke-linejoin="round"
 		stroke-linecap="square"
 		d="M115.02,21.11L125.28,21.11"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -210,7 +210,7 @@
 		d="M127.72,9.68L132.98,9.68"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -220,7 +220,7 @@
 		d="M127.72,15.75L132.98,15.75"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -229,7 +229,7 @@
 		stroke-linecap="square"
 		d="M127.72,2.89L134.30,2.89L134.30,21.11L127.72,21.11"/>
 	<path
-		fill="#00FEFF"
+		fill="#FFFFFF"
 		stroke="#000000"
 		fill-opacity="1.000"
 		stroke-opacity="0.000"
@@ -239,7 +239,7 @@
 		stroke-linecap="round"
 		d="M140.70,8.96L143.91,8.96A6.08 6.07 270.00 1 1 143.91,21.11L137.89,21.11L133.58,21.11z"/>
 	<path
-		fill="#00FEFF"
+		fill="#FFFFFF"
 		stroke="#000000"
 		fill-opacity="1.000"
 		stroke-opacity="0.000"
@@ -250,7 +250,7 @@
 		d="M143.94,15.04L140.73,15.04A6.08 6.07 270.00 1 1 140.73,2.89L146.76,2.89L146.76,9.14"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -260,7 +260,7 @@
 		d="M143.94,15.04L140.73,15.04A6.08 6.07 270.00 1 1 140.73,2.89L146.76,2.89L146.76,9.14"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -270,7 +270,7 @@
 		d="M140.70,8.96L143.91,8.96A6.08 6.07 270.00 1 1 143.91,21.11L137.89,21.11L133.58,21.11z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -280,7 +280,7 @@
 		d="M15.01,15.04L11.80,15.04A6.08 6.07 270.00 1 1 11.80,2.89L17.83,2.89L17.83,9.14"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -289,7 +289,7 @@
 		stroke-linecap="round"
 		d="M11.77,8.96L14.98,8.96A6.08 6.07 270.00 1 1 14.98,21.11L8.96,21.11L4.65,21.11z"/>
 	<path
-		fill="#00FEFF"
+		fill="#FFFFFF"
 		stroke="#000000"
 		fill-opacity="1.000"
 		stroke-opacity="0.000"
@@ -300,7 +300,7 @@
 		d="M37.67,21.11L44.26,21.11L50.84,21.11L50.84,2.89L44.26,2.89L44.26,15.03L37.67,15.03L37.67,21.11z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -309,7 +309,7 @@
 		stroke-linecap="square"
 		d="M31.32,21.11L37.67,21.11L37.67,15.04L44.26,15.04L44.26,2.89L31.09,2.89"/>
 	<path
-		fill="#00FEFF"
+		fill="#FFFFFF"
 		stroke="#000000"
 		fill-opacity="1.000"
 		stroke-opacity="0.000"
@@ -320,7 +320,7 @@
 		d="M50.84,2.89L50.84,21.11L57.42,21.11L57.42,8.96L64.01,8.96L64.01,2.89L57.42,2.89L50.84,2.89z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -340,7 +340,7 @@
 		d="M57.42,15.04L57.42,8.96L64.01,8.96L71.13,21.11L60.61,21.11L60.59,15.04L57.42,15.04z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -349,8 +349,8 @@
 		stroke-linecap="round"
 		d="M50.84,21.11L57.42,21.11L57.42,8.96L64.01,8.96L64.01,2.89L57.42,2.89L50.84,2.89"/>
 	<path
-		fill="#00FEFF"
-		stroke="#000000"
+		fill="#FFFFFF"
+		stroke="#1E1E1E"
 		fill-opacity="1.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -360,7 +360,7 @@
 		d="M64.01,8.96L64.01,2.89L72.57,2.89A6.21 6.20 90.00 0 1 72.57,15.04L76.13,21.11L71.13,21.11L64.01,8.96L70.59,8.96"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -390,7 +390,7 @@
 		d="M136.39,41.23L139.60,41.23A6.08 6.07 270.00 1 1 139.60,53.38L133.57,53.38L129.27,53.38z"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
@@ -400,7 +400,7 @@
 		d="M146.81,2.89L134.30,2.89"/>
 	<path
 		fill="#000000"
-		stroke="#000000"
+		stroke="#1E1E1E"
 		fill-opacity="0.000"
 		stroke-opacity="1.000"
 		fill-rule="nonzero"
